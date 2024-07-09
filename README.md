@@ -69,25 +69,6 @@ __pycache__/
 screenshots/
 ```
 
-### 5. Add License
-
-Include a `LICENSE` file in your project directory to specify the terms under which others can use, copy, modify, or distribute your software. The [MIT License](https://opensource.org/licenses/MIT) is commonly used and permits these activities with proper attribution.
-
-### 6. Testing
-
-Before publishing, thoroughly test your script to ensure it works as expected in various scenarios and environments.
-
-### 7. Publish on GitHub
-
-1. Create a new repository on GitHub.
-2. Initialize your local directory as a Git repository and push your code to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin https://github.com/yourusername/enhanced-keylogger.git
-   git push -u origin master
-   ```
 
 
 
